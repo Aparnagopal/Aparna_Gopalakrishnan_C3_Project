@@ -1,2 +1,0 @@
-# Aparna_Gopalakrishnan_C3_Project
-Assignment Project Restaurant Finder Submission
